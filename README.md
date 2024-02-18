@@ -32,7 +32,7 @@ Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is schedu
 [**See the list of patches**](https://j-hc.github.io/rvmm-config-gen/)
 
  * Star the repo :eyes:
- * [Fork the repo](https://github.com/MatadorProBr/revanced-extended-magisk-module/fork) or use it as a template
+ * [Fork the repo](https://github.com/DovisP/revanced-extended-magisk-module/fork) or use it as a template
  * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
  * Run the build [workflow](../../actions/workflows/build.yml)
  * Grab your modules and APKs from [releases](../../releases)
@@ -42,12 +42,12 @@ Also see here [`CONFIG.md`](./CONFIG.md).
 ## Building Locally
 ### On Termux
 ```console
-bash <(curl -sSf https://raw.githubusercontent.com/MatadorProBr/revanced-extended-magisk-module/main/build-termux.sh)
+bash <(curl -sSf https://raw.githubusercontent.com/DovisP/revanced-extended-magisk-module/main/build-termux.sh)
 ```
 
 ### On Desktop
 ```console
-$ git clone https://github.com/MatadorProBr/revanced-extended-magisk-module
+$ git clone https://github.com/DovisP/revanced-extended-magisk-module
 $ cd revanced-extended-magisk-module
 $ ./build.sh
 ```
