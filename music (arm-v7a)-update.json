@@ -1,6 +1,6 @@
 {
-  "version": "v6.39.50",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/dovisp/revanced-extended-magisk-module/releases/download/1/music-revanced-extended-magisk-v6.39.50-arm-v7a.zip",
+  "version": "v6.40.53",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/dovisp/revanced-extended-magisk-module/releases/download/2/music-revanced-extended-magisk-v6.40.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/dovisp/revanced-extended-magisk-module/update/build.md"
 }
