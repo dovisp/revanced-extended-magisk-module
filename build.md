@@ -1,6 +1,5 @@
-YouTube: 19.06.36  
-Music (arm-v7a): 6.41.58  
-Music (arm64-v8a): 6.41.58  
+YouTube: 19.05.36  
+Music (arm64-v8a): 6.42.52  
 
 Install [mMicroG](https://github.com/inotia00/mMicroG/releases) (recommended), [Vanced Extended MicroG](https://github.com/inotia00/VancedMicroG/releases) or [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
@@ -9,6 +8,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.4.1-all.jar  
-Integrations: YT-Advanced/revanced-integrations-0.145.3.apk  
-Patches: YT-Advanced/revanced-patches-2.220.8.jar  
-[Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.8)  
+Integrations: YT-Advanced/revanced-integrations-0.146.0.apk  
+Patches: YT-Advanced/revanced-patches-2.220.9.jar  
+[Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.9)  
