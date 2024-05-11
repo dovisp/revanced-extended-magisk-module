@@ -10,14 +10,10 @@ build-mode = "both"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 included-patches = "'Add splash animation' 'MaterialYou'"
 version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
 build-mode = "both"
 excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
-
-[Reddit]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
